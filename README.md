@@ -31,4 +31,7 @@ Activate the virtualenv for your project.
 `python manage.py runserver`
 
 You can now navigate to localhost:8000 in your browser and inspect the finished project. 
+[![Watch the video](https://github.com/shalini-bit/PodFeed/blob/main/ScreenRecorder_2022-01-14.mp4)]
+
+
 
