@@ -1,5 +1,6 @@
-# PodFeed
-Podcast aggregator
+# PodFeed :Podcast aggregator
+A content aggregator from scratch using `Python` and the popular framework `Django`.
+With so much content coming out online daily, it can be time consuming to go to multiple sites and sources to consume information about your favorite subjects. This is why content aggregators are so popular and powerful, as you can use them to view all the latest news and content in one place.
 
 !![ezgif com-gif-maker](https://github.com/shalini-bit/PodFeed/blob/main/ezgif.com-gif-maker.gif)
 ## How To Run The Project
