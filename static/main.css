@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(255,218,49);
+}
+
+.logo{
+height:50px;
+}
+
+.headingofhandf{
+margin-top :250px;
+font-family: 'Montserrat', sans-serif;
+}
+.mainimg {
+
+  margin-top :50px;
+  width: 50rem;
+}
+
+.card{
+  background-color: rgba(0, 0, 0, 0.1);
+  color : black;
+}
+
+.navbar-custom {
+background-color :black ;
+height: 4.5rem;
+
+}
