@@ -1,7 +1,7 @@
 # PodFeed
 Podcast aggregator
 
-
+!![ezgif com-gif-maker](https://github.com/shalini-bit/PodFeed/blob/main/ezgif.com-gif-maker.gif)
 ## How To Run The Project
 
 Create and activate a Python virtual environment for your operating system and install the dependencies:
@@ -31,7 +31,11 @@ Activate the virtualenv for your project.
 `python manage.py runserver`
 
 You can now navigate to localhost:8000 in your browser and inspect the finished project. 
-[![Watch the video](https://github.com/shalini-bit/PodFeed/blob/main/ScreenRecorder_2022-01-14.mp4)]
+
+P.S -Many improvements are left to be done.
+
+
+
 
 
 
